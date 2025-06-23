@@ -22,4 +22,4 @@ Elia Lab (2025). A tool for quantitative approach for analysis of
 qualitative data in epidemiology and beyond. School of Engineering Computing and Mathematics, Oxford Brookes Uiversity. https://quantitative-insights-elia-lab.streamlit.app/ (Accessed [Please add date here]).
 
 
-Key contributors: Mcebisi Ntelki, Eleni Elia
+Key contributors: Mcebisi Ntleki, Eleni Elia
