@@ -23,9 +23,9 @@ qualitative data in epidemiology and beyond. School of Engineering Computing and
 
 
 # Toy dataset: 
-https://drive.google.com/drive/folders/1WK_t1rzClIpePB1f0nOzURszSdEdji8h?usp=sharing
+https://drive.google.com/file/d/1_ydMu9GSSAZcJWWLq1VVO8rM8KY2WoAr/view?usp=sharing
 
 # Tutorial for Shiny app: 
-https://docs.google.com/document/d/1_jzkcsMdCdmxGBKs0fHFCzcwYoYM2_ub/edit?usp=sharing&ouid=106232981486526583729&rtpof=true&sd=true
+https://drive.google.com/file/d/1i6FrTzz_xA_eEfsN9-NkFY4eAQf8zuY1/view?usp=sharing
 
 Key contributors: Dr Mcebisi Ntleki, Dr Eleni Elia
